@@ -4,6 +4,7 @@
     <color name="colorPrimaryLight">#AC86E3</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="my_background">#E81712</color>
     <!-- color for task priority selection -->
     <color name="meterialRed">#E6210D</color>
     <color name="meterialOrange">#F48E0D</color>

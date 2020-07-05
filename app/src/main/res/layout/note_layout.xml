@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:textColor="@android:color/primary_text_light" />
 
-        <view
+        <View
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:layout_weight="1" />
@@ -36,7 +36,7 @@
             android:textColor="@android:color/primary_text_light" />
     </LinearLayout>
 
-    <view
+    <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:background="@android:color/darker_gray"/>
